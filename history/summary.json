@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 381,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "CLAMS Encore Discovery Layer",
+    "url": "https://encore.clamsnet.org",
+    "icon": "https://favicons.githubusercontent.com/encore.clamsnet.org",
+    "slug": "clams-encore-discovery-layer",
+    "status": "down",
+    "uptime": "12.73%",
+    "uptimeDay": "12.73%",
+    "uptimeWeek": "12.73%",
+    "uptimeMonth": "12.73%",
+    "uptimeYear": "12.73%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "CLAMS Sierra REST API",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 505,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "time": 433,
+    "timeDay": 433,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1771,
-    "timeDay": 1771,
-    "timeWeek": 1771,
-    "timeMonth": 1771,
-    "timeYear": 1771,
+    "time": 1754,
+    "timeDay": 1754,
+    "timeWeek": 1754,
+    "timeMonth": 1754,
+    "timeYear": 1754,
     "dailyMinutesDown": {}
   }
 ]
