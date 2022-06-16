@@ -6,7 +6,7 @@ sites:
   - name: CLAMS Classic WebPac (Public Access Catalog)
     url: https://library.clamsnet.org
   - name: CLAMS Encore Discovery Layer
-    url: https://encore.clamsnet.org
+    url: https://clams-encore.iii.com
   - name: CLAMS Sierra REST API
     url: https://clamsnet.org/iii/sierra-api/about
   - name: CLAMS Info Page
