@@ -5,8 +5,10 @@ repo: upptime-reports # The name of this repository
 sites:
   - name: CLAMS Classic WebPac (Public Access Catalog)
     url: https://library.clamsnet.org
-  - name: CLAMS Encore Discovery Catalog
-    url: https://encore.clamsnet.org
+  - name: CLAMS Encore Discovery Layer
+    check: "tcp-ping"
+    url: 54.85.49.242
+    port: 80
   - name: CLAMS Sierra REST API
     url: https://clamsnet.org/iii/sierra-api/about
   - name: CLAMS Info Page
