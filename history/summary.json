@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 358,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "time": 342,
+    "timeDay": 342,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   },
   {
     "name": "CLAMS Encore Discovery Layer",
-    "url": "https://encore.clamsnet.org",
-    "icon": "https://favicons.githubusercontent.com/encore.clamsnet.org",
+    "url": "https://clams-encore.iii.com",
+    "icon": "https://favicons.githubusercontent.com/clams-encore.iii.com",
     "slug": "clams-encore-discovery-layer",
     "status": "down",
-    "uptime": "3.99%",
-    "uptimeDay": "3.99%",
-    "uptimeWeek": "3.99%",
-    "uptimeMonth": "3.99%",
-    "uptimeYear": "3.99%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 7
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 384,
+    "timeDay": 384,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1754,
-    "timeDay": 1754,
-    "timeWeek": 1754,
-    "timeMonth": 1754,
-    "timeYear": 1754,
+    "time": 1719,
+    "timeDay": 1719,
+    "timeWeek": 1719,
+    "timeMonth": 1719,
+    "timeYear": 1719,
     "dailyMinutesDown": {}
   }
 ]
