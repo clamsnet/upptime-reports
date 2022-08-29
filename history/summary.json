@@ -58,9 +58,9 @@
     "url": "https://info.clamsnet.org",
     "icon": "https://favicons.githubusercontent.com/info.clamsnet.org",
     "slug": "clams-info-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1776,
     "timeMonth": 1922,
     "timeYear": 1959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   }
 ]
