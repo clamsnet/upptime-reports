@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 613,
-    "timeWeek": 464,
-    "timeMonth": 474,
-    "timeYear": 447,
+    "time": 448,
+    "timeDay": 513,
+    "timeWeek": 472,
+    "timeMonth": 473,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 42,
-    "timeDay": 37,
-    "timeWeek": 28,
-    "timeMonth": 38,
-    "timeYear": 42,
+    "time": 41,
+    "timeDay": 12,
+    "timeWeek": 23,
+    "timeMonth": 37,
+    "timeYear": 41,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 386,
-    "timeWeek": 224,
-    "timeMonth": 284,
+    "timeDay": 290,
+    "timeWeek": 231,
+    "timeMonth": 279,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/info.clamsnet.org",
     "slug": "clams-info-page",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1969,
-    "timeDay": 2368,
-    "timeWeek": 1925,
-    "timeMonth": 1952,
-    "timeYear": 1969,
-    "dailyMinutesDown": {
-      "2022-08-29": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1966,
+    "timeDay": 2259,
+    "timeWeek": 1903,
+    "timeMonth": 1938,
+    "timeYear": 1966,
+    "dailyMinutesDown": {}
   }
 ]
