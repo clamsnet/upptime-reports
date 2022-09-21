@@ -4,19 +4,19 @@
     "url": "https://library.clamsnet.org",
     "icon": "https://favicons.githubusercontent.com/library.clamsnet.org",
     "slug": "clams-classic-web-pac-public-access-catalog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 499,
-    "timeWeek": 396,
-    "timeMonth": 455,
-    "timeYear": 445,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 443,
+    "timeDay": 397,
+    "timeWeek": 384,
+    "timeMonth": 450,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-09-21": 1
+      "2022-09-21": 39
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://clamsnet.org/iii/sierra-api/about",
     "icon": "https://favicons.githubusercontent.com/clamsnet.org",
     "slug": "clams-sierra-rest-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 291,
-    "timeDay": 338,
-    "timeWeek": 263,
-    "timeMonth": 272,
+    "timeDay": 291,
+    "timeWeek": 260,
+    "timeMonth": 271,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-09-21": 0
+      "2022-09-21": 39
     }
   },
   {
