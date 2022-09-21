@@ -4,10 +4,10 @@
     "url": "https://library.clamsnet.org",
     "icon": "https://favicons.githubusercontent.com/library.clamsnet.org",
     "slug": "clams-classic-web-pac-public-access-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
@@ -15,7 +15,9 @@
     "timeWeek": 396,
     "timeMonth": 455,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-21": 1
+    }
   },
   {
     "name": "CLAMS Encore Discovery Layer",
@@ -40,9 +42,9 @@
     "url": "https://clamsnet.org/iii/sierra-api/about",
     "icon": "https://favicons.githubusercontent.com/clamsnet.org",
     "slug": "clams-sierra-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 263,
     "timeMonth": 272,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-21": 0
+    }
   },
   {
     "name": "CLAMS Info Page",
