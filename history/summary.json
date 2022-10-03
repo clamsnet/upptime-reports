@@ -2,7 +2,7 @@
   {
     "name": "CLAMS Classic WebPac (Public Access Catalog)",
     "url": "https://library.clamsnet.org",
-    "icon": "https://favicons.githubusercontent.com/library.clamsnet.org",
+    "icon": "https://icons.duckduckgo.com/ip3/library.clamsnet.org.ico",
     "slug": "clams-classic-web-pac-public-access-catalog",
     "status": "up",
     "uptime": "99.97%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 437,
-    "timeDay": 571,
-    "timeWeek": 390,
-    "timeMonth": 397,
-    "timeYear": 437,
+    "time": 436,
+    "timeDay": 333,
+    "timeWeek": 388,
+    "timeMonth": 393,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2022-09-21": 39
     }
@@ -22,7 +22,7 @@
   {
     "name": "CLAMS Encore Discovery Layer",
     "url": "54.85.49.242",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clams-encore-discovery-layer",
     "status": "up",
     "uptime": "100.00%",
@@ -31,28 +31,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 79,
-    "timeWeek": 42,
-    "timeMonth": 36,
+    "timeDay": 2,
+    "timeWeek": 37,
+    "timeMonth": 35,
     "timeYear": 40,
     "dailyMinutesDown": {}
   },
   {
     "name": "CLAMS Sierra REST API",
     "url": "https://clamsnet.org/iii/sierra-api/about",
-    "icon": "https://favicons.githubusercontent.com/clamsnet.org",
+    "icon": "https://icons.duckduckgo.com/ip3/clamsnet.org.ico",
     "slug": "clams-sierra-rest-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
-    "time": 290,
-    "timeDay": 357,
-    "timeWeek": 276,
-    "timeMonth": 277,
-    "timeYear": 290,
+    "uptimeYear": "99.98%",
+    "time": 288,
+    "timeDay": 48,
+    "timeWeek": 232,
+    "timeMonth": 271,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2022-09-21": 39
     }
@@ -60,7 +60,7 @@
   {
     "name": "CLAMS Info Page",
     "url": "https://info.clamsnet.org",
-    "icon": "https://favicons.githubusercontent.com/info.clamsnet.org",
+    "icon": "https://icons.duckduckgo.com/ip3/info.clamsnet.org.ico",
     "slug": "clams-info-page",
     "status": "up",
     "uptime": "100.00%",
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1969,
-    "timeDay": 2970,
-    "timeWeek": 2182,
-    "timeMonth": 1950,
-    "timeYear": 1969,
+    "time": 1965,
+    "timeDay": 1526,
+    "timeWeek": 2169,
+    "timeMonth": 1940,
+    "timeYear": 1965,
     "dailyMinutesDown": {}
   }
 ]
