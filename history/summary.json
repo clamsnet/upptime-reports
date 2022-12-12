@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 456,
-    "timeDay": 422,
-    "timeWeek": 578,
-    "timeMonth": 528,
+    "timeDay": 577,
+    "timeWeek": 566,
+    "timeMonth": 537,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2022-09-21": 39
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 7,
-    "timeWeek": 39,
-    "timeMonth": 36,
+    "timeDay": 72,
+    "timeWeek": 43,
+    "timeMonth": 38,
     "timeYear": 39,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 283,
-    "timeDay": 64,
-    "timeWeek": 271,
-    "timeMonth": 294,
+    "timeDay": 323,
+    "timeWeek": 283,
+    "timeMonth": 303,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2022-09-21": 39
@@ -64,17 +64,16 @@
     "slug": "clams-info-page",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2026,
-    "timeDay": 2321,
-    "timeWeek": 2190,
-    "timeMonth": 2136,
+    "timeDay": 1951,
+    "timeWeek": 2181,
+    "timeMonth": 2149,
     "timeYear": 2026,
     "dailyMinutesDown": {
-      "2022-12-11": 10,
       "2022-10-07": 43
     }
   }
