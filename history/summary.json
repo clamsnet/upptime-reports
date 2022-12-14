@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 456,
-    "timeDay": 361,
-    "timeWeek": 518,
-    "timeMonth": 538,
-    "timeYear": 456,
+    "time": 457,
+    "timeDay": 576,
+    "timeWeek": 487,
+    "timeMonth": 534,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2022-09-21": 39
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 39,
-    "timeDay": 2,
-    "timeWeek": 38,
-    "timeMonth": 38,
-    "timeYear": 39,
+    "time": 38,
+    "timeDay": 35,
+    "timeWeek": 33,
+    "timeMonth": 37,
+    "timeYear": 38,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/clamsnet.org.ico",
     "slug": "clams-sierra-rest-api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 283,
-    "timeDay": 166,
-    "timeWeek": 247,
-    "timeMonth": 303,
-    "timeYear": 283,
+    "uptimeYear": "99.99%",
+    "time": 282,
+    "timeDay": 268,
+    "timeWeek": 229,
+    "timeMonth": 293,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2022-09-21": 39
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2023,
-    "timeDay": 1562,
-    "timeWeek": 2120,
-    "timeMonth": 2149,
+    "timeDay": 1894,
+    "timeWeek": 2095,
+    "timeMonth": 2145,
     "timeYear": 2023,
     "dailyMinutesDown": {
       "2022-10-07": 43
