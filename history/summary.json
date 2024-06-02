@@ -22,19 +22,19 @@
     "url": "https://info.clamsnet.org",
     "icon": "https://icons.duckduckgo.com/ip3/info.clamsnet.org.ico",
     "slug": "clams-info-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
+    "time": 341,
     "timeDay": 164,
     "timeWeek": 200,
     "timeMonth": 221,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-06-02": 6,
+      "2024-06-02": 0,
       "2024-01-17": 16
     }
   }
