@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 0,
-    "timeWeek": 656,
-    "timeMonth": 640,
+    "time": 544,
+    "timeDay": 425,
+    "timeWeek": 629,
+    "timeMonth": 629,
     "timeYear": 548,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 0,
-    "timeWeek": 205,
-    "timeMonth": 230,
-    "timeYear": 234,
+    "timeDay": 77,
+    "timeWeek": 174,
+    "timeMonth": 226,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2024-01-17": 16
     }
