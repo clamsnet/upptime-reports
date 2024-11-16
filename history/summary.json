@@ -4,19 +4,19 @@
     "url": "https://library.clamsnet.org",
     "icon": "https://icons.duckduckgo.com/ip3/library.clamsnet.org.ico",
     "slug": "clams-aspen-discovery-public-access-catalog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 2245,
-    "timeWeek": 926,
-    "timeMonth": 567,
-    "timeYear": 536,
+    "time": 542,
+    "timeDay": 2336,
+    "timeWeek": 1103,
+    "timeMonth": 626,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-11-16": 0
+      "2024-11-16": 5
     }
   },
   {
