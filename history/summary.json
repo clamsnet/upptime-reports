@@ -6,17 +6,17 @@
     "slug": "clams-aspen-discovery-public-access-catalog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 4875,
-    "timeWeek": 2481,
-    "timeMonth": 1086,
+    "timeDay": 4843,
+    "timeWeek": 2498,
+    "timeMonth": 1092,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2024-11-16": 23
+      "2024-11-16": 18
     }
   },
   {
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 231,
-    "timeDay": 197,
-    "timeWeek": 257,
-    "timeMonth": 243,
+    "time": 230,
+    "timeDay": 254,
+    "timeWeek": 255,
+    "timeMonth": 244,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-10-22": 21,
