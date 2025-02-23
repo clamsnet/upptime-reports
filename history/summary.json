@@ -4,7 +4,7 @@
     "url": "https://library.clamsnet.org",
     "icon": "https://icons.duckduckgo.com/ip3/library.clamsnet.org.ico",
     "slug": "clams-aspen-discovery-public-access-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 660,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2025-02-12": 15,
       "2025-01-29": 24,
       "2025-01-21": 15,
