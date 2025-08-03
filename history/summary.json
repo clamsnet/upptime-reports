@@ -16,7 +16,7 @@
     "timeMonth": 389,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-08-03": 1254,
+      "2025-08-03": 1259,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -169,19 +169,19 @@
     "url": "https://info.clamsnet.org",
     "icon": "https://icons.duckduckgo.com/ip3/info.clamsnet.org.ico",
     "slug": "clams-info-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 298,
-    "timeWeek": 252,
-    "timeMonth": 260,
-    "timeYear": 235,
+    "timeDay": 324,
+    "timeWeek": 265,
+    "timeMonth": 263,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-08-03": 0,
+      "2025-08-03": 5,
       "2024-10-22": 21
     }
   }
