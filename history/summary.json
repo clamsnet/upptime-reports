@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.clamsnet.org.ico",
     "slug": "clams-aspen-discovery-public-access-catalog",
     "status": "down",
-    "uptime": "82.48%",
+    "uptime": "82.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.52%",
+    "uptimeYear": "60.32%",
     "time": 581,
     "timeDay": 4527,
     "timeWeek": 1019,
     "timeMonth": 542,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-08-10": 1,
+      "2025-08-10": 1063,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -176,7 +176,7 @@
     "url": "https://info.clamsnet.org",
     "icon": "https://icons.duckduckgo.com/ip3/info.clamsnet.org.ico",
     "slug": "clams-info-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -188,6 +188,7 @@
     "timeMonth": 389,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2024-10-22": 21
     }
   }
