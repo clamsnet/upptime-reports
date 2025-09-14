@@ -16,7 +16,8 @@
     "timeMonth": 429,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2025-09-13": 1439,
+      "2025-09-14": 0,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -212,9 +213,9 @@
     "slug": "clams-info-page",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 243,
     "timeDay": 66,
@@ -222,7 +223,8 @@
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-09-13": 0,
+      "2025-09-14": 0,
+      "2025-09-13": 1,
       "2025-08-31": 40,
       "2025-08-27": 19,
       "2024-10-22": 21
